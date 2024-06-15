@@ -34,4 +34,4 @@ Lexica.art：
 
 # :hammer_and_wrench: Execução
 
-Usei os prompts acima, fiz o banner e a edição dele no powerpointe, pequisei a foto no site da lexica de usuarios refinei as instruçoes do chatgpt se tiver mais interece visele o artigo na dio por esse [Link](https://web.dio.me/articles/como-dominar-as-funcoes-basicas-e-avancadas-em-javascript?back=%2Farticles&open-modal=true&page=1&order=oldest) 
+Usei os prompts acima, fiz o banner e a edição dele no powerpointe, pequisei a foto no site da lexica de usuarios refinei as instruçoes do chatgpt se tiver mais interesse vislte o artigo na Dio por esse [Link](https://web.dio.me/articles/como-dominar-as-funcoes-basicas-e-avancadas-em-javascript?back=%2Farticles&open-modal=true&page=1&order=oldest) 
